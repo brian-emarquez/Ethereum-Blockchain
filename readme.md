@@ -1,28 +1,28 @@
-<h2 align="center"> Ethereum Development </h2>
+<h2 align="center"> Ethereum Blockchain </h2>
 
 <p align="center">
+  </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Ethereum-Blockchain?color=yellow">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Ethereum-Blockchain/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Ethereum-Blockchain.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Ethereum-Blockchain/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Ethereum-Blockchain.svg?style=flat" alt="Forks">
+  </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Ethereum-Blockchain?color=red&label=Version&logo=python">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Ethereum-Blockchain">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Ethereum-Blockchain/total?color=green">
+  </a>
+  
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Ethereum-Development?color=yellow">
-  </a>
-  <a href="https://github.com/BrianMarquez3/Ethereum-Development/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Ethereum-Development.svg?style=flat" alt="Stars">
-  </a>
-  <a href="https://github.com/BrianMarquez3/Ethereum-Development/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Ethereum-Development.svg?style=flat" alt="Forks">
-  </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Ethereum-Development?color=red&label=Version&logo=python">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Ethereum-Development">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Ethereum-Development/total?color=green">
-  </a>
-  
-   </a>
-   <a href="https://github.com/BrianMarquez3/Ethereum-Development/network">
+   <a href="https://github.com/BrianMarquez3/Ethereum-Blockchain/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
 </p>
