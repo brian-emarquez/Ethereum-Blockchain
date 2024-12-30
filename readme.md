@@ -96,21 +96,3 @@ Acontinuacion presentamos algunos provedores de la red Ropsten Tesnet para ether
 ## LICENSE
 
 Use of this source code is governed by a MIT license that can be found in the LICENSE file.
-
-## GIT Comands
-
-
-```
-git config --global user.email "you@example.com" <br>
-git config --global user.name "Your Name"
-```
-
-**Create Personal Access Token on GitHub**
-
-From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token, it will be something like  <br>
-
->ghp_sFhF123456789123456789
-
-Fuente [Stackoverflow](https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to)
-
-
